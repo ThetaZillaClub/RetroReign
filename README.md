@@ -5,5 +5,5 @@
 3. Navigate to Windows\Engine\Extras\Redist\en-us and run the prerequisites installation (this may take a few minutes)
 4. Launch the pixzillaplatformer.exe file and login with these credentials (it is connected to wallet holding 1 PixZilla) 
 
-Username: demo
-Password: hackathon
+Username: thetazilla
+Password: authpassword
